@@ -18,7 +18,6 @@ int main() {
     // input
     std::cout << "Enter a positive integer: ";
     std::cin >> numberAsString;
-    std::cout << "" << std::endl;
 
     // process & output
     try {
